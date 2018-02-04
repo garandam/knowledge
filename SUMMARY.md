@@ -1,5 +1,6 @@
 # Summary
 
-### bin
+[Introduction](README.md)
 
-* [SSH](bin/ssh.md)
+* bin
+  * [SSH](bin/ssh.md)
